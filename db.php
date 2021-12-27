@@ -1,0 +1,8 @@
+<?php
+
+$servername = "localhost";
+$username = "root";
+$password = "root";
+$dbname = "studentprogress";
+$conn = new mysqli($servername, $username, $password, $dbname);
+
